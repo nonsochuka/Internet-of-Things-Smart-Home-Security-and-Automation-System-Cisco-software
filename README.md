@@ -1,0 +1,2 @@
+# Internet-of-Things-Smart-Home-Security-and-Automation-System-Cisco-software
+Internet of Things (IoT) Smart Home Security and Automation System using Cisco software refers to the integration of connected devices and sensors within a home network, managed and secured through Cisco technologies, to enable automated control, real-time monitoring, and enhanced protection against cyber and physical threats.
